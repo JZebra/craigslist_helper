@@ -1,0 +1,22 @@
+{
+  "name": "Craigslist Helper",
+  "version": "0.0.1",
+  "description": "Utilities to make craigslist buying easier",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action" :
+  {
+    "default_icon" : "icon-128.png",
+    "default_title" : "Simplify craigslist"
+  },
+  "permissions" : [
+    "declarativeContent"
+  ],
+  "icons" : {
+    "48" : "icon-48.png",
+    "128" : "icon-128.png"
+  },
+  "manifest_version": 2
+}
