@@ -5,7 +5,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.craigslist.org/*/*", "*://*.craigslist.org/search/*"],
-      "js": ["cl_emailer.js"],
+      "js": ["cl_codes.js", "cl_emailer.js"],
       "run_at": "document_end"
     }
   ],
