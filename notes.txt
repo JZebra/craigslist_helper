@@ -1,0 +1,27 @@
+Notes
+
+Url structure:
+
+
+region: sfo
+
+https://sfbay.craigslist.org/eby/bik/d/girls-bikes/6482611244.html
+https://sfbay.craigslist.org/reply/sfo/bik/6482611244
+
+https://sfbay.craigslist.org/eby/gms/d/bikes-and-jacket/6485970856.html
+https://sfbay.craigslist.org/reply/sfo/gms/6485970856
+
+https://sfbay.craigslist.org/sby/bab/d/kiddie-rides-bikes/6473748049.html
+https://sfbay.craigslist.org/reply/sfo/bab/6473748049
+
+https://sfbay.craigslist.org/reply/sfo/${region_code}/${listing_number}
+
+
+knx
+
+https://knoxville.craigslist.org/mcy/d/new-125-dirt-bikes-for/6455852037.html
+https://knoxville.craigslist.org/reply/knx/mcy/6455852037
+
+https://knoxville.craigslist.org/mcy/d/tax-time-sale-new-70cc-kids/6486556098.html
+https://knoxville.craigslist.org/reply/knx/mcy/6486556098
+
